@@ -1,0 +1,7 @@
+{
+  "name": "mpje-capacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
